@@ -75,7 +75,7 @@ ul{
     content: '>';
 }
 
-.card_-title--is-open:before{
+.card__title--is-open:before{
     content:'-';
 }
 
