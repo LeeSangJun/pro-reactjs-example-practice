@@ -9,6 +9,7 @@ let cardList = [{
         id: 1,
         title: "Read the Book",
         description: "I should read the **whole** book",
+        color:'#BD8D31',
         status: "in-progress",
         tasks: []
     },
@@ -17,6 +18,7 @@ let cardList = [{
         title: "Write some code",
         description: "Code along with the samples in the book." +
                      "The complete source can be found at [gitHub](https://github.com/pro-react) ",
+        color: "#3A7E28",
         status: "todo",
         tasks:[
             {
